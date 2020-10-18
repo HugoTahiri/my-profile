@@ -1,0 +1,114 @@
+/*Colors and fonts */
+body {
+	background-color: lightgrey
+	color: rgb(30, 30, 30);
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 15px
+}
+
+h1, h2, h3 {
+	color: #1b262c;
+	font-family: 'Piazzolla', serif;
+	font-weight: lighter;
+	text-align: center;
+	
+}
+
+h1 {
+	color: black;
+	font-size: 42px;
+	font-weight: 800;
+	text-align: center;
+	
+}
+
+h2 {
+	color: darkblue;
+	font-size: 28px;
+	font-weight: 800;
+	text-align: center;
+	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+a:hover {
+	color: blue; 
+	font-weight: bold;
+}
+
+div {
+	background: white;
+	border:2px solid black;
+	margin: 10px;
+	text-align: center;
+}
+
+
+
+.img-profile {
+	width: 150px;
+	height: 150px;
+
+
+.First
+	width: 500px; 
+	margin:40px auto;
+	background-color: 
+	box-shadow
+	border-radius
+	margin
+	text-align: center;
+
+.Second
+	width: 500px; 
+	margin:40px auto;
+	background-color: 
+	box-shadow
+	border-radius
+	margin
+	text-align: center;
+
+.Third
+	width: 500px; 
+	margin:40px auto;
+	background-color: 
+	box-shadow
+	border-radius
+	margin
+	text-align: center;
+
+@media (max-width: 600px)
+	.First {
+		width: 500px
+	}
+}
+
+@media (max-width: 600px)
+	.First {
+		width: 500px
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
